@@ -14,7 +14,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 - Digital Multimeter (DMM)  
 
 ---
-
+ 
 ## 📚 THEORY
 
 - **LEDs and LASER diodes** are commonly used sources in optical communication systems for both digital and analog transmission.
